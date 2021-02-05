@@ -28,7 +28,9 @@ Quiz_11 Random 함수 이용한 구구단 게임
 
 Hybird => webkitView, ToolBar, bar button, flexible Space, button icon은  더블클릭해서 system icon 변경, progressing Bar = Activity Indicator Bar
 
-- netwrok연결 =>
+// --------------
+
+-netwrok연결 =>
 
 - 1. info.plist
 
@@ -38,7 +40,7 @@ Hybird => webkitView, ToolBar, bar button, flexible Space, button icon은  더�
 
 - 4. Allow Arbitrary Loads => YES
 
-- File 경로 찾기
+-File 경로 찾기
 
 파일 경로 찾기 => forResource : 파일 이름, ofType : 확장자
 
